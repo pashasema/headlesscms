@@ -1,1 +1,0 @@
-{\n  "name": "strapi-backend",\n  "version": "1.0.0",\n  "description": "Strapi project for headlesscms repo",\n  "main": "server.js",\n  "scripts": {\n    "develop": "strapi develop",\n    "start": "strapi start",\n    "build": "strapi build"\n  },\n  "dependencies": {\n    "@strapi/strapi": "^4.22.1"\n  },\n  "engines": {\n    "node": ">=18.0.0"\n  },\n  "license": "MIT"\n}
